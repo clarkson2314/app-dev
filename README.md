@@ -1,4 +1,6 @@
 # app-dev
 My first repository
-**bold text** 
-favorite text
+**My Favorite Movie** 
+**Le Petit Prince**
+
+
