@@ -1,6 +1,6 @@
 # app-dev
-# My first repository
-**My Favorite Movie** 
+## My first repository
+### **My Favorite Movie** 
 **Le Petit Prince**
 
 
